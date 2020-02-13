@@ -1,0 +1,76 @@
+body{
+background-image:url("images/forest.jpg");
+    
+}
+h1{
+    font-family: 'Rancho', cursive;
+    font-size: 50px;
+    color :rgb(255, 251, 7);
+   
+    
+}
+
+
+h2{
+    font-family: 'Rancho', cursive;
+    font-size: 50px;
+    color :rgb(255, 251, 7);
+}
+
+
+h3{
+    font-family: 'Rancho', cursive;
+    font-size: 50px;
+    color :rgb(255, 251, 7);
+} 
+
+h4{
+    font-family: 'Rancho', cursive;
+    font-size: 50px;
+    color :rgb(255, 251, 7);
+}
+#maintext{
+color:white
+}
+
+* {
+    box-sizing: border-box;
+    padding: 5px
+}
+.container {
+    display:flex;
+    min-height: 100px;
+    flex-direction: column;
+    color:white;
+    text-align: center;
+    padding:15px;
+    flex:1
+}
+.link{
+    display:flex;
+     flex-direction: column;
+     flex:1
+
+     
+}
+.para{
+    color:white;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 45px;
+    border:dashed;
+    background-color: black
+}
+.images{
+    height: 100px;
+    width: 125px
+}
+.smallimg{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between,center;
+    height: 320px;
+    
+    
+    
+    
+}

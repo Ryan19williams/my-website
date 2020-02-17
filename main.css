@@ -72,8 +72,9 @@ color:white
 .smallimg{
     display:flex;
     flex-direction: row;
-    justify-content:space-between,center;
-    height: 320px;
+    justify-content:center;
+    height: 400px;
+    width:75px
     
     
     

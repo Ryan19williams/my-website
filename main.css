@@ -28,7 +28,12 @@ h4{
     font-family: 'Rancho', cursive;
     font-size: 50px;
     color :rgb(255, 251, 7);
-}
+} 
+h5{
+    font-family: 'Rancho', cursive;
+    font-size: 50px;
+    color :rgb(255, 251, 7);
+} 
 #maintext{
 color:white
 }
